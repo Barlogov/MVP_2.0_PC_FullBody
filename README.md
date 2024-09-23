@@ -37,26 +37,26 @@
 До этого все взаимодействия носили Клиент-Серверный характер по протоколу **TCP**, основной масса передаваемого трафика является дальнейшая передача **UDP** пакетов от клиента к клиенту
 
 ## Используемые технологии:
-using System.Threading;
-using System.Threading.Tasks; - многопоточность
+- using System.Threading;
+- using System.Threading.Tasks; - многопоточность
 
-using System.Net;
-using System.Net.Sockets;
-using LumiSoft.Net.STUN.Client; - сетевая составляющая
+- using System.Net;
+- using System.Net.Sockets;
+- using LumiSoft.Net.STUN.Client; - сетевая составляющая
 
-using Newtonsoft.Json; - сериализация
+- using Newtonsoft.Json; - сериализация
 
-using System.Linq; - Linq запросы
+- using System.Linq; - Linq запросы
 
-using NAudio.Wave; - считывание и воспроизведение аудио потоков
+- using NAudio.Wave; - считывание и воспроизведение аудио потоков
 
-using Windows.Kinect;
-using Windows.Kinect.JointType; - библиотека Kinect для отслеживания людей в кадре и их ключевых точек
+- using Windows.Kinect;
+- using Windows.Kinect.JointType; - библиотека Kinect для отслеживания людей в кадре и их ключевых точек
 
-Собственные протоколы поверх TCP и UDP
+- Собственные протоколы поверх TCP и UDP
 
-3D Render Engine: Unity
-UI / UX: Unity
+- 3D Render Engine: Unity
+- UI / UX: Unity
 
 ### MVP_2.0_PC_FullBody (левый монитор) & Server (правый монитор):
 ![MVP_2 0_PC_FullBody_And_Server_Screenshot](https://github.com/user-attachments/assets/744feb69-cdf9-46de-baeb-8ef601514978)

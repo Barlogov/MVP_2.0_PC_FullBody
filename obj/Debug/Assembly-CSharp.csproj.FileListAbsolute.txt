@@ -1,0 +1,2 @@
+D:\UnityProjects\MVP_2.0_PC_FullBody\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\UnityProjects\MVP_2.0_PC_FullBody\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

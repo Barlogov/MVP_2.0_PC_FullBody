@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "D:\UnityProjects\MVP_2.0_PC_FullBody\_BUILDS\14_LANUniversalWindowsBuild\Il2CppOutputProject\IL2CPP\libil2cpp\mono\MonoPosixHelper.cpp"
+#include "D:\UnityProjects\MVP_2.0_PC_FullBody\_BUILDS\14_LANUniversalWindowsBuild\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
+#include "D:\UnityProjects\MVP_2.0_PC_FullBody\_BUILDS\14_LANUniversalWindowsBuild\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
+#include "D:\UnityProjects\MVP_2.0_PC_FullBody\_BUILDS\14_LANUniversalWindowsBuild\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
+#include "D:\UnityProjects\MVP_2.0_PC_FullBody\_BUILDS\14_LANUniversalWindowsBuild\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
+#include "D:\UnityProjects\MVP_2.0_PC_FullBody\_BUILDS\14_LANUniversalWindowsBuild\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"

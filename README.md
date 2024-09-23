@@ -18,8 +18,8 @@
 - [Серверная](https://github.com/Barlogov/MVP_2_0_Server) для Linux __(полный MVS проект)__
 - [Серверная](https://github.com/Barlogov/MVP_2_0_Server) для Windows __(полный MVS проект)__
 - [Клиентская](https://github.com/Barlogov/MVP_2.0_PC_FullBody) для Windows с обычным(и) монитором(и) и полем зрения сенсора в полный рост пользователя __(полный Unity проект)__
-- [Клиентская](https://github.com/Barlogov/MVP_2.0_PC_HalfBody) для Windows с голографическим октаэдром и полем зрения сенсора только на верхнюю часть человека __(/Assets/Scripts, только папка со скриптами, т.к. LFS не позволяет загружать более 1Гб больщих файлов)__
-- [Клиентская](https://github.com/Barlogov/MVP_2.0_PC_HoloTube) для Windows с голографическим цилиндром без поля зрения сенсора __(Unstable - т.к. прямо сейчас работаю над ним)(/Assets/Scripts, только папка со скриптами, т.к. LFS не позволяет загружать более 1Гб больщих файлов)__
+- [Клиентская](https://github.com/Barlogov/MVP_2.0_PC_HalfBody) для Windows с голографическим октаэдром и полем зрения сенсора только на верхнюю часть человека __(/Assets/Scripts, только папка со скриптами, т.к. LFS не позволяет загружать более 1Гб больших файлов)__
+- [Клиентская](https://github.com/Barlogov/MVP_2.0_PC_HoloTube) для Windows с голографическим цилиндром без поля зрения сенсора __(Unstable - т.к. прямо сейчас работаю над ним)(/Assets/Scripts, только папка со скриптами, т.к. LFS не позволяет загружать более 1Гб больших файлов)__
 - [Клиентская](https://github.com/Barlogov/MVP_2.0_Hololens) для XR очков Hololens __(Разработка только началась, проект содержит только тестовые сцены)__
 - [Клиентская](https://github.com/Barlogov/MVP) для AR приложения на Android/IOS __(Android build первой версии)__
 
@@ -35,6 +35,28 @@
 - Остальные клиенты могут подключиться к этой сессии при помощи кода доступа
 - Сервер ведет учет всех клиентов во всех сессиях и при подключении новых или отключении существующих уведомляет об этом остальных участников сессии
 До этого все взаимодействия носили Клиент-Серверный характер по протоколу **TCP**, основной масса передаваемого трафика является дальнейшая передача **UDP** пакетов от клиента к клиенту
+
+## Используемые технологии:
+using System.Threading;
+using System.Threading.Tasks; - многопоточность
+
+using System.Net;
+using System.Net.Sockets;
+using LumiSoft.Net.STUN.Client; - сетевая составляющая
+
+using Newtonsoft.Json; - сериализация
+
+using System.Linq; - Linq запросы
+
+using NAudio.Wave; - считывание и воспроизведение аудио потоков
+
+using Windows.Kinect;
+using Windows.Kinect.JointType; - библиотека Kinect для отслеживания людей в кадре и их ключевых точек
+
+Собственные протоколы поверх TCP и UDP
+
+3D Render Engine: Unity
+UI / UX: Unity
 
 ### MVP_2.0_PC_FullBody (левый монитор) & Server (правый монитор):
 ![MVP_2 0_PC_FullBody_And_Server_Screenshot](https://github.com/user-attachments/assets/744feb69-cdf9-46de-baeb-8ef601514978)

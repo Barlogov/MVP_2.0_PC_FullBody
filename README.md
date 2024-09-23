@@ -39,22 +39,22 @@
 ## Используемые технологии:
 - using System.Threading;
 - using System.Threading.Tasks; - многопоточность
-
+____
 - using System.Net;
 - using System.Net.Sockets;
 - using LumiSoft.Net.STUN.Client; - сетевая составляющая
-
+____
 - using Newtonsoft.Json; - сериализация
-
+____
 - using System.Linq; - Linq запросы
-
+____
 - using NAudio.Wave; - считывание и воспроизведение аудио потоков
-
+____
 - using Windows.Kinect;
 - using Windows.Kinect.JointType; - библиотека Kinect для отслеживания людей в кадре и их ключевых точек
-
+____
 - Собственные протоколы поверх TCP и UDP
-
+____
 - 3D Render Engine: Unity
 - UI / UX: Unity
 

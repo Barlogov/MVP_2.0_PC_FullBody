@@ -77,7 +77,7 @@ ____
 
 - [5 канал](https://www.5-tv.ru/news/484939/rossijskie-ucenye-predstavili-proekt-sobstvennoj-metavselennoj-nakonkurse-oon/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fsearch%3Ftext%3D)
 - [SUT - ООН](https://www.sut.ru/bonchnews/science/14-05-2024-uchenie-spbgut-pobedili-v-konkurse-oon-s-proektom-golograficheskoy-vselennoy)
-- [SUT - ООН](https://www.sut.ru/bonchnews/public-life/07-03-2024-svyaz-na-severnom-poluse-i-robot-avatar-dlya-arktiki:-spbgut-na-molodezhnom-arkticheskom-forume)
+- [SUT - МАФ](https://www.sut.ru/bonchnews/public-life/07-03-2024-svyaz-na-severnom-poluse-i-robot-avatar-dlya-arktiki:-spbgut-na-molodezhnom-arkticheskom-forume)
 - [РЕН ТВ](https://amp.ren.tv/news/v-rossii/1197085-vserossiiskii-molodezhnyi-arkticheskii-forum-startoval-v-kronshtadte)
 - [SUT - ИТ-Диалог](https://www.sut.ru/bonchnews/industry/14-11-2023-spbgut-predstavil-peredovie-resheniya-i-ekspertizu-na-forume-it-dialog)
 

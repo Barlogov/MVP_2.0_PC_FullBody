@@ -38,7 +38,7 @@
 
 ## Используемые технологии:
 - using System.Threading;
-- using System.Threading.Tasks; - многопоточность
+- using System.Threading.Tasks; - асинхронность и многопоточность
 ____
 - using System.Net;
 - using System.Net.Sockets;
@@ -57,6 +57,9 @@ ____
 ____
 - 3D Render Engine: Unity
 - UI / UX: Unity
+____
+
+## Фото-примеры работы системы:
 
 ### MVP_2.0_PC_FullBody (левый монитор) & Server (правый монитор):
 ![MVP_2 0_PC_FullBody_And_Server_Screenshot](https://github.com/user-attachments/assets/744feb69-cdf9-46de-baeb-8ef601514978)
@@ -69,3 +72,20 @@ ____
 
 ### MVP AR версия на Android:
 ![Screenrecorder-2023-10-12-20-19-42-817](https://github.com/user-attachments/assets/c8f3e704-9f2d-4f66-8229-3dbf2f3f868a)
+
+## Новостные статьи, связанные с проектом:
+
+- [SUT](https://www.sut.ru/bonchnews/science/14-06-2024-na-pyatom-kanale-vishel-telesuzhet-o-metavselennoy-spbgut)
+- [5 канал](https://www.5-tv.ru/news/484939/rossijskie-ucenye-predstavili-proekt-sobstvennoj-metavselennoj-nakonkurse-oon/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fsearch%3Ftext%3D)
+- [SUT - ООН](https://www.sut.ru/bonchnews/science/14-05-2024-uchenie-spbgut-pobedili-v-konkurse-oon-s-proektom-golograficheskoy-vselennoy)
+- [SUT - МАФ] (https://www.sut.ru/bonchnews/public-life/07-03-2024-svyaz-na-severnom-poluse-i-robot-avatar-dlya-arktiki:-spbgut-na-molodezhnom-arkticheskom-forume)
+- [РЕН ТВ](https://amp.ren.tv/news/v-rossii/1197085-vserossiiskii-molodezhnyi-arkticheskii-forum-startoval-v-kronshtadte)
+- [SUT - ИТ-Диалог] (https://www.sut.ru/bonchnews/industry/14-11-2023-spbgut-predstavil-peredovie-resheniya-i-ekspertizu-na-forume-it-dialog)
+
+## Научные статьи, связанные с проектом:
+- [ITT 2022](https://elibrary.ru/item.asp?id=50092898)
+- [Конференция им. Попова 2022](https://elibrary.ru/item.asp?id=53913795)
+- [Балтийский форум 2023](https://www.elibrary.ru/item.asp?id=64227900)
+- [ICACNGC 2023](https://www.sut.ru/new_site/images/blocks/1696858755.pdf)
+- [DCCN 2023](https://link.springer.com/chapter/10.1007/978-3-031-50482-2_3)
+- [New2an 2023](https://new2an.info/NEW2AN-Final-2023.pdf)

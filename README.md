@@ -3,14 +3,14 @@
 
 Я, С.Д.С., работаю в Санкт-Петербургском государственном университете телекоммуникаций им. проф. М. А. Бонч-Бруевича на каф. Сетей Связи и Передачи Данных (ССиПД) и в лаборатории "Исследование сетевых технологий с ультра малой задержкой и сверхвысокой плотностью на основе широкого применения искусственного интеллекта для сетей 6G» (MEGANETLAB 6G) в рамках мегагранта Минобрнауки.
 
-Команда, частью которой я являюсь, занимается исследованиями в сфере **HTC** (Holographic Type Vommunication), я единственный программист команды, поэтому планирование архитектуры, прототипирование, разработка, тестирование, поддержка кода и прочие подобные задачи выполняю я.
+Команда, частью которой я являюсь, занимается исследованиями в сфере [HTC](https://www.researchgate.net/publication/366122391_Challenges_in_Implementing_Low-Latency_Holographic-Type_Communication_Systems) (Holographic Type Vommunication) и [Metaverse](https://www.itu.int/en/ITU-T/focusgroups/mv/Pages/default.aspx), я единственный программист команды, поэтому планирование архитектуры, прототипирование, разработка, тестирование, поддержка кода и прочие подобные задачи выполняю я.
 
 Весь проект MVP был придуман, разработан и научно обоснован лично мной. 
 
 # Multiple Virtual Professors - :ru:
 
 **MVP** - система приложений, имеющая клиент-серверную архитектуру для обеспечения услуг конференц-связи без использования видео-потока.
-Все известные мне приложения конференц-связи для подобных целей используют **WebRTC** или подобные способы передачи видео и аудио потоков между пользователями. Разрабатываемая система использует другой подход и нацелена на использование в **"Сетях 2030"**. Вместо видеопотока **MVP** передает 3D-модель собеседника и координаты контрольных точек с тела человека, снятые при помощи сенсора глубины **Kinect v2**.
+Все известные мне приложения конференц-связи для подобных целей используют **WebRTC** или подобные способы передачи видео и аудио потоков между пользователями. Разрабатываемая система использует другой подход и нацелена на использование в ["Сетях 2030"](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2160-0-202311-I%21%21PDF-E.pdf). Вместо видеопотока **MVP** передает 3D-модель собеседника и координаты контрольных точек с тела человека, снятые при помощи сенсора глубины **Kinect v2**.
 
 На данный момент ведется разработка системы **MVP_2.0**, для которой написано собственное сетевое решение на языке C#, тогда как [MVP_1.0](https://github.com/Barlogov/MVP) был рабочим прототипом для Бакалаврской квалификационной работы, который использовал множество "быстрых и не самых практичных" решений по типу технологии [Mirror](https://mirror-networking.com/) 
 
@@ -75,12 +75,11 @@ ____
 
 ## Новостные статьи, связанные с проектом:
 
-- [SUT](https://www.sut.ru/bonchnews/science/14-06-2024-na-pyatom-kanale-vishel-telesuzhet-o-metavselennoy-spbgut)
 - [5 канал](https://www.5-tv.ru/news/484939/rossijskie-ucenye-predstavili-proekt-sobstvennoj-metavselennoj-nakonkurse-oon/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fsearch%3Ftext%3D)
 - [SUT - ООН](https://www.sut.ru/bonchnews/science/14-05-2024-uchenie-spbgut-pobedili-v-konkurse-oon-s-proektom-golograficheskoy-vselennoy)
-- [SUT - МАФ] (https://www.sut.ru/bonchnews/public-life/07-03-2024-svyaz-na-severnom-poluse-i-robot-avatar-dlya-arktiki:-spbgut-na-molodezhnom-arkticheskom-forume)
+- [SUT - ООН](https://www.sut.ru/bonchnews/public-life/07-03-2024-svyaz-na-severnom-poluse-i-robot-avatar-dlya-arktiki:-spbgut-na-molodezhnom-arkticheskom-forume)
 - [РЕН ТВ](https://amp.ren.tv/news/v-rossii/1197085-vserossiiskii-molodezhnyi-arkticheskii-forum-startoval-v-kronshtadte)
-- [SUT - ИТ-Диалог] (https://www.sut.ru/bonchnews/industry/14-11-2023-spbgut-predstavil-peredovie-resheniya-i-ekspertizu-na-forume-it-dialog)
+- [SUT - ИТ-Диалог](https://www.sut.ru/bonchnews/industry/14-11-2023-spbgut-predstavil-peredovie-resheniya-i-ekspertizu-na-forume-it-dialog)
 
 ## Научные статьи, связанные с проектом:
 - [ITT 2022](https://elibrary.ru/item.asp?id=50092898)
